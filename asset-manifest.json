@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/joker-todo/static/css/main.8c1db868.css",
+    "main.js": "/joker-todo/static/js/main.da417f43.js",
+    "static/media/joker.jpg": "/joker-todo/static/media/joker.7d1fab0d80f8a085d5aa.jpg",
+    "index.html": "/joker-todo/index.html",
+    "main.8c1db868.css.map": "/joker-todo/static/css/main.8c1db868.css.map",
+    "main.da417f43.js.map": "/joker-todo/static/js/main.da417f43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c1db868.css",
+    "static/js/main.da417f43.js"
+  ]
+}
